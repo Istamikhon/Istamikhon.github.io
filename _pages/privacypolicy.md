@@ -101,6 +101,6 @@ include_in_header: false
                   this page.
                 </p> <p>This policy is effective as of 2021-08-10</p> <p><strong>Contact Us</strong></p> <p>
                   If you have any questions or suggestions about my
-                  Privacy Policy, do not hesitate to contact me at infinity.developers.inc@gmail.com.
+                  Privacy Policy, do not hesitate to contact me at <a href="mailto:infinity.developers.inc@gmail.com">infinity.developers.inc@gmail.com</a>
                 </p> 
     </body>
