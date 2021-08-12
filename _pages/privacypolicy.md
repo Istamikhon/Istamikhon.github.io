@@ -3,14 +3,8 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title>Privacy Policy</title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; color:#000;} </style>
-    </head>
-    <body>
+  
+  <body>
     <strong>Privacy Policy</strong> <p>
                   Infinity built the Downloader video - for social networks app as
                   a Free app. This SERVICE is provided by
@@ -110,4 +104,3 @@ include_in_header: false
                   Privacy Policy, do not hesitate to contact me at infinity.developers.inc@gmail.com.
                 </p> 
     </body>
-    </html>
